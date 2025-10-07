@@ -1,3 +1,5 @@
+## TODO Merge this code with the starlife version (better results, works with gVCFs) -- keep the argparse menu from this version
+
 # VCF-RefgenDetector
 
 ## How to install 
