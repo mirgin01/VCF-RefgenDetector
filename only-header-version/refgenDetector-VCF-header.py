@@ -8,10 +8,8 @@ This refgenDetector-VCF-Header infers the reference genome ONLY from the header 
 
 import gzip
 import sys
-from aligment_files import comparison
-from chromosomes_dict import *
 from rich.console import Console
-from refgenDetector.reference_genome_dictionaries import *
+from reference_genome_dictionaries import *
 
 console = Console(highlight=False)
 
